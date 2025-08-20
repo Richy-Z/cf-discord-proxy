@@ -1,4 +1,4 @@
-# Discord Webhook proxy using Cloudflare Workers
+# Discord webhook proxy using Cloudflare workers
 
 This is a very simple proxy for Discord webhooks made using Cloudflare workers.
 
